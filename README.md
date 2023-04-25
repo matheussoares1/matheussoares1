@@ -73,4 +73,4 @@ Bom... entrei no curso de T.I no ano de 2022 ao mesmo tempo que estava no ensino
 
 ##  🐍 &nbsp; Snake
 
-![Snake animation](https://github.com/LuscasArimate/LuscasArimate/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/matheussoares1/matheussoares1/blob/output/github-contribution-grid-snake.svg)
