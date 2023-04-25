@@ -68,3 +68,9 @@ Bom... entrei no curso de T.I no ano de 2022 ao mesmo tempo que estava no ensino
 </div>
   <img align="center" alt="Google" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/google.svg" />
 </a>
+
+
+
+##  🐍 &nbsp; Snake
+
+![Snake animation](https://github.com/LuscasArimate/LuscasArimate/blob/output/github-contribution-grid-snake.svg)
