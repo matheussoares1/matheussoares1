@@ -35,8 +35,6 @@ Bom... entrei no curso de T.I no ano de 2022 ao mesmo tempo que estava no ensino
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoares1&layout=compact)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheussoares1&repo=gamell.io)](https://github.com/anuraghazra/github-readme-stats)  
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheussoares1&repo=gitlabhq)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
