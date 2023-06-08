@@ -33,6 +33,12 @@ Bom... entrei no curso de T.I no ano de 2022 ao mesmo tempo que estava no ensino
 - [VBA](https://learn.microsoft.com/en-us/office/vba/api/overview/)
 - [GML](https://manual-br.yoyogames.com/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussoares1&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheussoares1&repo=gamell.io)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matheussoares1&repo=gitlabhq)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
