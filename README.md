@@ -22,11 +22,8 @@ Bom... entrei no curso de T.I no ano de 2022 ao mesmo tempo que estava no ensino
 
 ### 🛠 Tecnologias
 
-- [html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [Node.js](https://nodejs.org/en/)
 - [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [PHP](https://www.php.net/)
-- [Java](https://www.java.com/pt-BR/)
 - [Python](https://www.python.org/)
 - [C++](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
 - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
