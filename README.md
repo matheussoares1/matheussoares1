@@ -31,4 +31,4 @@ My Hobbies are robotics and automation with Arduino and Lego EV6.
 
 </p>
 
-![Logo](https://github.com/matheussoares1/OzHomi.Dev/blob/main/logo/Multiplas%20Cores/1x/Prancheta%201.png?raw=true)![Logo](https://github.com/matheussoares1/OzHomi.Dev/blob/main/Design_sem_nome__2_-removebg-preview.png?raw=true)
+![Logo](https://github.com/matheussoares1/OzHomi.Dev/blob/main/Design_sem_nome__2_-removebg-preview.png?raw=true)
