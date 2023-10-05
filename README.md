@@ -72,6 +72,6 @@ My Hobbies are robotics and automation with Arduino and Lego EV6.
 
 <div align="center">
  
-![Logo](https://github.com/matheussoares1/OzHomi.Dev/blob/main/Design_sem_nome__2_-removebg-preview.png?raw=true)
+![Logo]()
 
 </div>
