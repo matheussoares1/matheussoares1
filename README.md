@@ -1,7 +1,7 @@
 
 # Hi, I'm Matheus Soares
 
-A Back-End Web Developer and Full Stack Software Programmer, practitioner of UX Design and Visual Identity Design
+I'm a certified Computer Technician, currently pursuing a Bachelor's Degree in Computer Science Education and a Technologist Degree in Systems Analysis and Development.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=matheussoares1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -9,10 +9,11 @@ A Back-End Web Developer and Full Stack Software Programmer, practitioner of UX 
 </div>
 
 ## 🚀 About Me
-I am currently a high school student taking a technical course in IT at the Escola Estadual de Educação Profissonal Manoel Mano in Crateús - Ceará, Brazil.
+💻 I'm a passionate Backend Web Developer, Full Stack Software Programmer, and UI/UX Designer. I enjoy building scalable systems and crafting intuitive user experiences.
 
-My Hobbies are robotics and automation with Arduino and Lego EV6.
+🧠 I currently work as a Network Infrastructure Analyst and IT Support Technician in a hospital environment, where I contribute to maintaining critical systems and providing tech support for healthcare professionals.
 
+Let's connect and build something great!
 
 
 ## Skills
